@@ -28,7 +28,8 @@ generation, collaborate in real-time shared Spaces, and organize documents into 
 - **Async ingestion** — upload returns immediately; parsing/embedding happens in the
   background while the frontend polls `/pdfs/:id/status`.
 
-
+# DEMO
+link - https://youtu.be/kVWkrmmR0tE
 # UI
 <img width="1887" height="841" alt="image" src="https://github.com/user-attachments/assets/d2404937-109b-4b0a-b658-2fa5f165d9ac" />
 <img width="1902" height="917" alt="image" src="https://github.com/user-attachments/assets/1a1f08e6-bcb0-4f21-b354-22d0a7232b13" />
