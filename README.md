@@ -24,7 +24,7 @@ generation, collaborate in real-time shared Spaces, and organize documents into 
   from the top-K retrieved chunks, with inline `[Source N]` citations shown in the UI.
 - **Spaces** — generate a shareable code from any PDF; anyone who joins sees the same
   live chat feed via Socket.io (presence indicators included).
-- **Collections** — group PDFs into named playlists for structured retrieval.
+- **Collections** — group PDFs into named playlists for structured retrieval. 
 - **Async ingestion** — upload returns immediately; parsing/embedding happens in the
   background while the frontend polls `/pdfs/:id/status`.
 
